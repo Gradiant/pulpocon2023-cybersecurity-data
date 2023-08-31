@@ -4,6 +4,7 @@ pika==1.3.0
 scikit-learn==1.1.1
 seaborn==0.11.2
 pandas_profiling
+imblearn
 matplotlib==3.5.3
 plotly==5.10.0
 rich==12.5.1

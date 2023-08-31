@@ -1,5 +1,7 @@
 # pulpocon2023-cybersecurity-data
 
+El taller estará dividido en dos partes: anonimización y detección de anomalías.
+
 ## Instalación de dependencias
 
 Antes de nada, creamos unos entornos con python instalado para no tener ningún problema de versiones durante el taller.
@@ -13,7 +15,9 @@ pip install -r requirements.txt
 
 ### En venv
 ```
-source bin/activate/pulpo2023
+mkdir envs 
+python3.8 -m venv envs/pulpo2023
+source envs/bin/activate/pulpo2023
 pip install -r requirements.txt
 ```
 
