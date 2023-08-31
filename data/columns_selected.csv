@@ -1,0 +1,7 @@
+,Table,Row,Description,Special
+1,application_data,SK_ID_CURR,ID of loan in our sample,
+2,application_data,TARGET,"Target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample, 0 - all other cases)",
+10,application_data,AMT_INCOME_TOTAL,Income of the client,
+11,application_data,AMT_CREDIT,Credit amount of the loan,
+20,application_data,DAYS_BIRTH,Client's age in days at the time of application,time only relative to the application
+21,application_data,DAYS_EMPLOYED,How many days before the application the person started current employment,time only relative to the application
