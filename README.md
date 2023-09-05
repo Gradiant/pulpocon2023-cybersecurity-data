@@ -1,4 +1,6 @@
-# pulpocon2023-cybersecurity-data
+# Guardianes de Datos: Innovando en ciberseguridad con Data Analytics & IA
+
+## PulpoCon2023 #TrackData
 
 El taller estará dividido en dos partes: anonimización y detección de anomalías.
 
@@ -7,6 +9,10 @@ El taller estará dividido en dos partes: anonimización y detección de anomal�
 Antes de nada, creamos unos entornos con python instalado para no tener ningún problema de versiones durante el taller.
 
 ### En conda / miniconda
+
+Nosotros recomendamos usar conda.
+Tenéis la guía de instalación aquí: https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html
+
 ```
 conda create --name pulpo2023 python=3.9.15
 conda activate pulpo2023
@@ -16,8 +22,8 @@ pip install -r requirements.txt
 ### En venv
 ```
 mkdir envs 
-python3.8 -m venv envs/pulpo2023
-source envs/bin/activate/pulpo2023
+python3.9 -m venv envs/pulpo2023
+source envs/pulpo2023/bin/activate
 pip install -r requirements.txt
 ```
 
