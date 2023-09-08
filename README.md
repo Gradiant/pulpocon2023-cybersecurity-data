@@ -1,5 +1,9 @@
 # Guardianes de Datos: Innovando en ciberseguridad con Data Analytics & IA
 
+Shenia Kuchumova: ekuchumova@gradiant.org
+
+Iago Abad: iabad@gradiant.org
+
 ## PulpoCon2023 #TrackData
 
 El taller estará dividido en dos partes: anonimización y detección de anomalías.
